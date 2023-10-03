@@ -2,7 +2,7 @@
     "name": "reactunity",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://xwinst.github.io/reactunity",
+    "homepage": "https://xwinst.github.io",
     "dependencies": {
         "modern-normalize": "^2.0.0",
         "react": "^18.2.0",
