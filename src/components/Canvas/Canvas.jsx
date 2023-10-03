@@ -59,9 +59,10 @@ const Canvas = () => {
     }, [setColor, setTexture, sendMessage, addEventListener, removeEventListener, setName]);
 
     useEffect(() => {
-        if (!isLoaded) setTimeout(() => setIsEnd(true), 3000);
+        if (isLoaded) setTimeout(() => setIsEnd(true), 2000);
     }, [isLoaded]);
 
+    console.log("isEnd: ", isEnd);
     return (
         <>
             {!isLoaded && <ProgressBar percent={loadingPercentage} />}
