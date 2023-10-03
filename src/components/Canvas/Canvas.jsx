@@ -11,10 +11,10 @@ const Canvas = () => {
         addEventListener,
         removeEventListener,
     } = useUnityContext({
-        loaderUrl: "unity/web.loader.js",
-        dataUrl: "unity/web.data",
-        frameworkUrl: "unity/web.framework.js",
-        codeUrl: "unity/web.wasm",
+        loaderUrl: "unity/Web.loader.js",
+        dataUrl: "unity/Web.data",
+        frameworkUrl: "unity/Web.framework.js",
+        codeUrl: "unity/Web.wasm",
     });
 
     const [name, setName] = useState();
