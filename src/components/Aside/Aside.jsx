@@ -19,7 +19,7 @@ const Aside = ({ name }) => {
                     Camera movement: mouse movement while holding down the right mouse button or the
                     “W”, “A”, “S”, “D” keys.
                 </p>
-                <p>Zoom: mouse wheel and "Left Ctrl", "Left Shift" keys.</p>
+                <p>Zoom: mouse wheel or "Left Ctrl", "Left Shift" keys.</p>
             </div>
         </aside>
     );
