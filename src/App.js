@@ -5,12 +5,7 @@ import { Canvas } from "components";
 function App() {
     // const [name, setName] = useState();
 
-    return (
-        <>
-            {/* <Aside name={name} /> */}
-            <Canvas />;
-        </>
-    );
+    return <Canvas />;
 }
 
 export default App;

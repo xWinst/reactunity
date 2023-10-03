@@ -63,11 +63,11 @@ const Canvas = () => {
     }, [isLoaded]);
 
     return (
-        <div className="container">
+        <>
             {!isLoaded && <ProgressBar percent={loadingPercentage} />}
             {isEnd && <Aside name={name} />}
-            <Unity className="unity" unityProvider={unityProvider} />
-        </div>
+            <Unity unityProvider={unityProvider} />
+        </>
     );
 };
 

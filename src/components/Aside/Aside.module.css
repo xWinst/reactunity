@@ -2,7 +2,7 @@
     position: absolute;
     display: flex;
     flex-direction: column;
-    height: 100%;
+    height: calc(100vh - 1px);
     padding: 16px;
     overflow-y: auto;
     background: #fff;
@@ -19,7 +19,7 @@
 }
 
 .container {
-    width: 278px;
+    width: 230px;
     font-weight: 700;
 }
 
@@ -49,4 +49,14 @@
 .active {
     composes: item;
     background: #f2faf5;
+}
+
+.text {
+    margin-top: 70px;
+    width: 230px;
+}
+
+.text p {
+    margin-top: 10px;
+    text-wrap: wrap;
 }
