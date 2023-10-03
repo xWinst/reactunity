@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3be33054.css",
-    "main.js": "/static/js/main.86849ac2.js",
-    "static/media/hardwood.jpg": "/static/media/hardwood.ef6d013ecd4358a33f70.jpg",
-    "static/media/carpet.jpg": "/static/media/carpet.777d412e3a6542dc4986.jpg",
-    "static/media/tile.jpg": "/static/media/tile.9767aff475b4dc5fc3c0.jpg",
-    "static/media/tile6.jpg": "/static/media/tile6.89953bee849391e567a6.jpg",
-    "static/media/fabric.jpg": "/static/media/fabric.4cfe50f4e5474ac49135.jpg",
-    "static/media/marble.jpg": "/static/media/marble.d732ff38e110f2e6f034.jpg",
-    "static/media/cabinet.jpg": "/static/media/cabinet.3ef1155c82f6728b8637.jpg",
-    "index.html": "/index.html",
-    "main.3be33054.css.map": "/static/css/main.3be33054.css.map",
-    "main.86849ac2.js.map": "/static/js/main.86849ac2.js.map"
+    "main.css": "/reactunity/static/css/main.3be33054.css",
+    "main.js": "/reactunity/static/js/main.aeda90a8.js",
+    "static/media/hardwood.jpg": "/reactunity/static/media/hardwood.ef6d013ecd4358a33f70.jpg",
+    "static/media/carpet.jpg": "/reactunity/static/media/carpet.777d412e3a6542dc4986.jpg",
+    "static/media/tile.jpg": "/reactunity/static/media/tile.9767aff475b4dc5fc3c0.jpg",
+    "static/media/tile6.jpg": "/reactunity/static/media/tile6.89953bee849391e567a6.jpg",
+    "static/media/fabric.jpg": "/reactunity/static/media/fabric.4cfe50f4e5474ac49135.jpg",
+    "static/media/marble.jpg": "/reactunity/static/media/marble.d732ff38e110f2e6f034.jpg",
+    "static/media/cabinet.jpg": "/reactunity/static/media/cabinet.3ef1155c82f6728b8637.jpg",
+    "index.html": "/reactunity/index.html",
+    "main.3be33054.css.map": "/reactunity/static/css/main.3be33054.css.map",
+    "main.aeda90a8.js.map": "/reactunity/static/js/main.aeda90a8.js.map"
   },
   "entrypoints": [
     "static/css/main.3be33054.css",
-    "static/js/main.86849ac2.js"
+    "static/js/main.aeda90a8.js"
   ]
 }
